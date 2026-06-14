@@ -18,11 +18,6 @@ web page that charts it. The collector and the web viewer are one program.
      (~1 min), then collects data and opens http://localhost:8800/.
 
   You must be on the gateway's network (its "TEG-xxxx" Wi-Fi, or its LAN IP).
-
-  Mac/Linux, or just to view the included sample data without a gateway:
-     pip install -r requirements.txt
-     python strings_server.py --no-collect --port 8800
-
 ------------------------------------------------------------------
  THE PAGE
 ------------------------------------------------------------------
