@@ -90,8 +90,6 @@ the box. To view just the sample data without a gateway, run
 | `requirements.txt` | `flask` + `openpyxl` + `pypowerwall` |
 | `StringsDB.db` | 14 days of sample data (replaced by your real data once logging) |
 
-[Powerwall-Strings-Inverter.zip](https://github.com/user-attachments/files/28935178/Powerwall-Strings-Inverter.zip)
-
 ## Security note
 
 The gateway password is stored in plain text inside `Start_StringsPage.bat`.
