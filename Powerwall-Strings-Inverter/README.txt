@@ -45,7 +45,6 @@ web page that charts it. The collector and the web viewer are one program.
  NOTES
 ------------------------------------------------------------------
   - 100% local: per-string data comes only from the gateway's local API.
-  - The password is stored in plaintext in the .bat -- add yours locally and
-    do NOT commit your real password if you publish this repo.
+  - The password is stored in plaintext in the .bat -- add yours locally.
   - The bundled StringsDB.db is sample data so the page looks populated. To log
     your own data, delete it (it is recreated) and run the launcher.
