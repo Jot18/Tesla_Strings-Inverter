@@ -94,5 +94,4 @@ the box. To view just the sample data without a gateway, run
 
 ## Security note
 
-The gateway password is stored in plain text inside `Start_StringsPage.bat`. Add yours **locally**
-and **do not commit your real password** if you publish this repo (the file ships with a placeholder).
+The gateway password is stored in plain text inside `Start_StringsPage.bat`.
