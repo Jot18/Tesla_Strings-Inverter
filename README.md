@@ -1,6 +1,3 @@
-@hulkster  Here you go...I only have 4 strings so not sure how this will work.
-If someone has more than 4 strings please provide me feedback.
-
 # Powerwall Strings & Inverter
 
 A small, **single-file** web app that reads **per-string (MPPT)** and **inverter** data from a
