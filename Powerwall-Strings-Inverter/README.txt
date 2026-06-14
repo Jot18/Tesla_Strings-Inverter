@@ -13,7 +13,7 @@ web page that charts it. The collector and the web viewer are one program.
   2. Unzip this folder anywhere.
   3. Open  Start_StringsPage.bat  in Notepad and set the top lines:
          set "TEDAPI_HOST=192.168.91.1"      (your gateway IP)
-         set "TEDAPI_PASSWORD=YOUR_PASSWORD"  (gateway local password)
+         set "TEDAPI_PASSWORD=Password123"  (gateway local password)
   4. Double-click  Start_StringsPage.bat. The first run installs dependencies
      (~1 min), then collects data and opens http://localhost:8800/.
 
